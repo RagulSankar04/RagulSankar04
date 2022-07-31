@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragulsankar04" alt="ragulsankar04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ragulsankar2004" target="blank"><img src="https://img.shields.io/twitter/follow/ragulsankar2004?logo=twitter&style=for-the-badge" alt="ragulsankar2004" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_ragul_sankar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ragul_sankar_?logo=twitter&style=for-the-badge" alt="_ragul_sankar_" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/RagulSankar04/Portfolio)
 
