@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/RagulSankar04/Portfolio)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Node/MongoDB**
+- 🤝 I’m looking for help with **Springboot**
 
 - 📫 How to reach me **ragulsankar2004@gmail.com**
 
-- ⚡ Fun fact **I am a Extrovert**
+- ⚡ Fun fact **I am a Code in Light Mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
