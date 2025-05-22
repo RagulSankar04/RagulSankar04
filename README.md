@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ragul_sankar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ragul_sankar_?logo=twitter&style=for-the-badge" alt="_ragul_sankar_" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/RagulSankar04/Portfolio)
+- 🔭 I’m currently working on **Java HackerRank Problems**
 
 - 🌱 I’m currently learning **Java**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ragulsankar2004@gmail.com**
 
-- ⚡ Fun fact **I am a Code in Light Mode**
+- ⚡ Fun fact **I am a Coder who codes in Light Mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
